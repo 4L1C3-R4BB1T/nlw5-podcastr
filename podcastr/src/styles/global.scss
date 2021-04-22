@@ -58,4 +58,8 @@ h2 {
 
 button {
     cursor: pointer;
+
+    &:focus {
+        outline: transparent;
+    }
 }
