@@ -14,7 +14,7 @@ A aplicação consiste em um site de podcasts, onde o usuário pode ouvir e ler 
 
 # Tecnologias Utilizadas
 - HTML
-- CSS
+- SCSS
 - ReactJS 
 - Next.js
 
