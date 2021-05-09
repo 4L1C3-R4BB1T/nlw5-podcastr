@@ -10,7 +10,9 @@ Podcastr é um projeto construído durante a 5ª **Next Level Week**, da [Rocket
 A aplicação consiste em um site de podcasts, onde o usuário pode ouvir e ler os detalhes de seus episódios favoritos.
 
 ## Layout
-
+<img height="450" src="https://github.com/4L1C3-R4BB1T/nlw5-podcastr/raw/main/_assets/web1.png" alt="Web 1">
+<img height="450" src="https://github.com/4L1C3-R4BB1T/nlw5-podcastr/raw/main/_assets/web2.png" alt="Web 2">
+<img height="450" src="https://github.com/4L1C3-R4BB1T/nlw5-podcastr/raw/main/_assets/web3.png" alt="Web 3">
 
 # Tecnologias Utilizadas
 - HTML
